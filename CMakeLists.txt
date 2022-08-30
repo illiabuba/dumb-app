@@ -19,4 +19,7 @@ set(CMAKE_CXX_STANDARD 11)
 set(CMAKE_CXX_STANDARD_REQUIRED True)
 
 # add the executable
-add_executable(${PROJECT_NAME} src/Client/client.cpp src/Server/server.cpp) 
+add_executable(${PROJECT_NAME} 
+               src/Client/client.cpp 
+               src/Server/server.cpp
+               ) 
