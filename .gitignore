@@ -110,4 +110,6 @@ Temporary Items
 # Ignore code-workspaces
 *.code-workspace
 
+build-files/
+
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,macos,c++,cmake
