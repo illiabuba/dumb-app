@@ -106,6 +106,7 @@ Temporary Items
 
 # Support for Project snippet scope
 .vscode/*.code-snippets
+.vscode/settings.json
 
 # Ignore code-workspaces
 *.code-workspace
